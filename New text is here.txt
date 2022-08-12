@@ -1,4 +1,3 @@
 New text is here
-estos son mis chavaletes
-cambio de vida
-cambio de maestria
+
+reemplazamos todo alaverga desde el checkout al primer commit
